@@ -7,3 +7,5 @@ nav:
         - Sub 2: sub2.md
         - Subsub:
             - Subsub 1: subsub1.md
+docs_dir: markdown
+site_dir: docs
