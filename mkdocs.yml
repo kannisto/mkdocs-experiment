@@ -1,0 +1,9 @@
+site_name: My experiment
+nav:
+    - Home: index.md
+    - My page: mypage.md
+    - Subs:
+        - Sub 1: sub1.md
+        - Sub 2: sub2.md
+        - Subsub:
+            - Subsub 1: subsub1.md
